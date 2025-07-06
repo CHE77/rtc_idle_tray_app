@@ -1,0 +1,50 @@
+Cooperative Non-Violent Public License (CNPL)
+
+1. Purpose
+
+This license exists to ensure that this software is used for peaceful, ethical, and cooperative purposes. It prohibits military, violent, oppressive, or exploitative uses and mandates respect for human rights and personal data.
+
+2. Non-Violent Use Only
+
+You MAY NOT use this software:
+- For military purposes or armed conflict;
+- To develop, support, or operate weapons systems, surveillance tools, or any violent applications;
+- For policing, incarceration, or any activity that promotes repression, control, or exploitation.
+
+3. Personal Data Protection
+
+You MAY NOT:
+- Collect, store, or process personal data using this software without explicit, informed consent;
+- Use this software for profiling, surveillance, tracking, or any violation of privacy;
+- Share or sell any personal data processed with this software.
+
+If personal data is processed:
+- It must be anonymized or encrypted;
+- Affected users must have the right to view, correct, and delete their data.
+
+4. Non-Commercial Use
+
+This software MAY be used freely for personal, educational, or non-commercial purposes. Commercial use is permitted only if:
+- It aligns with the peaceful, cooperative values of this license;
+- Any profit derived from the software is shared fairly with the original authors and community.
+
+5. Distribution and Modification
+
+You MAY:
+- Use, study, and modify the source code;
+- Distribute original or modified versions only under this same license;
+- Fork this repository, provided the CNPL is retained in full.
+
+6. Termination
+
+Violation of this license automatically terminates your rights to use, modify, or distribute this software. The authors may seek legal recourse to prevent further misuse.
+
+7. Disclaimer
+
+This software is provided "as-is" without any warranties. The authors disclaim all liability related to use or misuse of this software.
+
+8. About
+
+This license is inspired by ethical licensing movements (e.g. CNPL, Hippocratic License) and may evolve in future versions.
+
+For more information, contact the author(s).
